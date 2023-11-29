@@ -1,5 +1,5 @@
 # Description
-LEDLantern controlled by PIC10F200
+LEDLantern controlled by PIC10LF322
 
 # Circuit 
 
